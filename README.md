@@ -12,7 +12,8 @@ I’m currently pursuing a <b>BCA</b> with a strong passion for <i><b>cybersecur
 
 <!-- What I'm working on now -->
 ## &nbsp;Currently working on
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=460&pause=250&color=F7F7F7&width=435&lines=Loading..." alt="Typing SVG" /></a>
+<b>👉 E-commerce Website</b><br>
+<img src="https://github.com/SIDDU-IRONMAN/SIDDU-IRONMAN/blob/main/assets/ecommerce_sid.png" alt="Description" width="500" height="250" style="border-radius:80%;">
 
 <!-- Projects -->
 ## &nbsp;Projects
@@ -48,7 +49,7 @@ I’m currently pursuing a <b>BCA</b> with a strong passion for <i><b>cybersecur
 ## &nbsp;Connect
 
 <p >
-  <a href="https://www.linkedin.com/in/siddu/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/siddu-siddardha-pindi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=FFFFFF"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
